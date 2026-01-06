@@ -40,6 +40,10 @@ pip-wheel-metadata/
 .spyproject
 *.swp
 
+# Exports
+notebook/*.html
+notebook/*.pdf
+
 # =========================
 # OS Files
 # =========================
