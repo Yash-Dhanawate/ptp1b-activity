@@ -31,6 +31,11 @@ pip-wheel-metadata/
 .ipython/
 .profile_default/
 
+# files
+
+main.html
+main.pdf
+
 # =========================
 # IDEs & Editors
 # =========================
